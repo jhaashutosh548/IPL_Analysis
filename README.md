@@ -12,6 +12,8 @@ Using Power BI, I have analyzed the past three years of IPL data to uncover key 
 **Team Analysis****
 ![Screenshot 2024-06-24 195650](https://github.com/jhaashutosh548/IPL_Analysis/assets/131469144/80b05636-d829-42a8-bcd9-654f0f40d72c)
 
+
+
 **Best Playing 11*****
 ![Screenshot 2024-06-24 195713](https://github.com/jhaashutosh548/IPL_Analysis/assets/131469144/fac67517-6d38-4329-a5dc-090e2fc7ac8f)
 
